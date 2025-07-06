@@ -1,5 +1,5 @@
-body {
-    font-style: Roboto, sans-serif;
+html {
+    font-family: Roboto;
 }
 
 .header, .footer {
@@ -12,4 +12,10 @@ body {
 
 #quote-section {
     background-color: #E5E7EB
+}
+
+#main-title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
 }
