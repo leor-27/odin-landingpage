@@ -14,7 +14,7 @@ html {
     background-color: #E5E7EB;
 }
 
-.main-title strong, .header-content strong {
+.main-title strong, .header-content strong, .signup h4, .signup button, .signup {
     color: #F9FAF8;
 }
 
@@ -32,8 +32,10 @@ html {
     font-size: 18px;
 }
 
-.call-to-action, .call-to-action button {
+.signup, .signup button {
     background-color: #3882F6;
 }
+
+
 
 /* text-decoration:none; padding-right: 110px; padding-left: 100px; */
