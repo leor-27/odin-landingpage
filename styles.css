@@ -45,6 +45,7 @@ html {
 .white-background h3, #quote-section p em {
     font-size: 36px;
     color: #1F2937;
+    text-align: center;
 }
 
 .white-background h3 {
@@ -56,4 +57,8 @@ html {
     font-style: italic;
 }
 
-/* text-decoration:none; padding-right: 110px; padding-left: 100px; */
+.header-link p {
+    padding-right: 110px; 
+    padding-left: 100px;
+}
+
