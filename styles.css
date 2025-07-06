@@ -10,7 +10,7 @@ html {
     background-color: white;
 }
 
-#quote-section {
+#quote-section, .header-link p, #subtext {
     background-color: #E5E7EB
 }
 
