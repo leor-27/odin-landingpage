@@ -1,0 +1,15 @@
+html {
+    font-style: Roboto, sans-serif;
+}
+
+.header, .footer {
+    background-color: #1F2937;
+}
+
+.white-background {
+    background-color: white;
+}
+
+#quote-section {
+    background-color: #E5E7EB
+}
