@@ -62,7 +62,7 @@ html {
     padding-left: 100px;
 }
 
-.header {
+.header, .footer, .white-background, #quote-section {
     padding-top: 50px;
     padding-bottom: 50px;
     padding-right: 50px;
@@ -70,7 +70,7 @@ html {
 }
 
 .square {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   border: 1px solid #3882F6;
 }
