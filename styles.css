@@ -14,8 +14,15 @@ html {
     background-color: #E5E7EB
 }
 
-.main-title strong {
+.main-title strong, .header-content strong {
     color: #F9FAF8;
+}
+
+.main-title strong {
     font-size: 48px;
     font-weight: 900;
+}
+
+.header-content strong {
+    font-size: 24px;
 }
