@@ -10,14 +10,26 @@ html {
 
 .header, .footer {
     background-color: #1F2937;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .white-background {
     background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 #quote-section {
     background-color: #E5E7EB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .main-title strong, .header-content strong, .signup h4, .signup button, .signup {
@@ -62,23 +74,9 @@ html {
     padding-left: 100px;
 }
 
-.header {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
-    padding-left: 50px;
-}
-
 .square {
   height: 100px;
   width: 100px;
   border: 1px solid #3882F6;
   border-radius: 10px;
-}
-
-#quote-section {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
-    padding-left: 50px;
 }
