@@ -61,3 +61,10 @@ html {
     padding-right: 110px; 
     padding-left: 100px;
 }
+
+.header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
