@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 html {
     font-family: Roboto;
 }
@@ -27,7 +33,7 @@ html {
     font-size: 24px;
 }
 
-.header-link p, .subtext {
+.header-link p, .subtext, .main-title p {
     color:#E5E7EB;
     font-size: 18px;
 }
@@ -46,7 +52,12 @@ html {
 }
 
 #quote-section p {
-    font-style: light italic;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.signup {
+    padding: 20px;
 }
 
 /* text-decoration:none; padding-right: 110px; padding-left: 100px; */
