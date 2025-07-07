@@ -71,6 +71,11 @@ html {
 #quote-section p {
     font-weight: 300;
     font-style: italic;
+    line-height: 1.5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .header-link p {
@@ -90,6 +95,13 @@ html {
 }
 
 .signup {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.white-background .signup {
     padding-top: 50px;
     padding-bottom: 50px;
     padding-right: 50px;
