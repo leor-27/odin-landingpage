@@ -14,6 +14,8 @@ html {
     padding-bottom: 50px;
     padding-right: 50px;
     padding-left: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 .footer {
@@ -49,7 +51,7 @@ html {
     font-weight: 900;
 }
 
-.header-content strong, .signup h4, #quote-section h4 {
+.header-content strong, #quote-section h4 {
     font-size: 24px;
 }
 
@@ -92,6 +94,7 @@ html {
 .header-link p {
     padding-right: 110px; 
     padding-left: 100px;
+    float: right;
 }
 
 .square {
@@ -148,4 +151,18 @@ html {
 .signup-button {
     font-size: 16px;
     margin: 4px 2px;
+}
+
+.signup h4 {
+    font-size: 16px;
+}
+
+.box {
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
 }
