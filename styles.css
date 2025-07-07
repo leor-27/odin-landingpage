@@ -48,9 +48,10 @@ html {
 .header-link p, .subtext {
     color:#E5E7EB;
     font-size: 18px;
+    flex-wrap: wrap;
 }
 
-.signup, .signup button {
+.signup, .signup-button {
     background-color: #3882F6;
 }
 
@@ -88,6 +89,7 @@ html {
   width: 100px;
   border: 1px solid #3882F6;
   border-radius: 10px;
+  flex-wrap: wrap;
 }
 
 .footer .subtext {
@@ -113,16 +115,15 @@ html {
 }
 
 .white-background h4 {
-    font-size: 16px;
+    font-size: 32px;
 }
 
 .white-background .signup-button {
     border-color: white;
     border-radius: 10px;
-
+    float: right;
 }
 
 .header .signup-button {
-    border-color: white;
     border-radius: 10px;
 }
