@@ -159,10 +159,14 @@ html {
 
 .box {
     background-color: gray;
-    height: 200px;
-    width: 200px;
-    border-radius: 10px;
+    height: 100px;
+    width: 100px;
     margin-top: 20px;
     padding: 20px;
     text-align: center;
+}
+
+.box p {
+    color: white;
+    font-size: 16px;
 }
