@@ -12,8 +12,8 @@ html {
     background-color: #1F2937;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left: 25px;
-    margin-right: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .footer {
@@ -95,8 +95,8 @@ html {
 }
 
 .square {
-  height: 350px;
-  width: 400px;
+  height: 100px;
+  width: 100px;
   border: 1px solid #3882F6;
   border-radius: 10px;
   flex-wrap: wrap;
@@ -156,8 +156,8 @@ html {
 
 .box {
     background-color: gray;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 500px;
     margin-top: 20px;
     padding: 20px;
     text-align: center;
