@@ -106,7 +106,6 @@ html {
   justify-content: center;
   display: flex;
   float: left;
-  gap: 10px;
   margin-left: 50px;
 }
 
@@ -202,8 +201,6 @@ html {
 }
 
 .subtext {
-    float: left;
-    gap: 10px;
     margin-left: 50px;
     width: 100px;
 }
