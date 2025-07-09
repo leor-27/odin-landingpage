@@ -49,7 +49,7 @@ html {
     font-weight: 900;
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .header-content strong, #quote-section h4 {
@@ -169,7 +169,6 @@ html {
     background-color: gray;
     height: 270px;
     width: 520px;
-    margin-top: 20px;
     padding: 20px;
     text-align: center;
     flex-wrap: wrap;
@@ -181,7 +180,6 @@ html {
 .box p {
     color: white;
     font-size: 16px;
-    padding-top: 20px;
 }
 
 .main-title p {
@@ -207,4 +205,8 @@ html {
     float: left;
     gap: 10px;
     margin-left: 50px;
+}
+
+.header p {
+    color: gray;
 }
