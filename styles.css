@@ -49,13 +49,14 @@ html {
     font-weight: 900;
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 20px;
 }
 
 .header-content strong, #quote-section h4 {
     font-size: 24px;
 }
 
-.header-link p, .subtext, .main-title p {
+.header-link p, .subtext {
     color: gray;
     font-size: 18px;
     flex-wrap: wrap;
@@ -91,7 +92,7 @@ html {
 }
 
 .header-link p {
-    padding-right: 110px; 
+    padding-right: 60px; 
     padding-left: 100px;
     float: right;
 }
@@ -151,12 +152,13 @@ html {
 }
 
 .signup-button {
-    font-size: 16px;
+    font-size: 10px;
     margin: 4px 2px;
     padding: 16px 32px;
     width: 100px;
     height: 40px;
     font-weight: bold;
+    text-align: center;
 }
 
 .signup h4 {
@@ -170,16 +172,26 @@ html {
     margin-top: 20px;
     padding: 20px;
     text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    float: right;
 }
 
 .box p {
     color: white;
     font-size: 16px;
+    padding-top: 20px;
 }
 
 .main-title p {
     margin-left: 20px;
     margin-right: 50px;
+    color: gray;
+    font-size: 18px;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
 }
 
 #subtext-2 {
