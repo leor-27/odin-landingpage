@@ -108,6 +108,7 @@ html {
   float: left;
   gap: 10px;
   margin-left: 50px;
+  justify-content: space-between;
 }
 
 .footer .subtext {
@@ -155,7 +156,7 @@ html {
     font-size: 16px;
     margin: 4px 2px;
     padding: 8px 16px;
-    width: 100px;
+    width: 120px;
     height: 40px;
     font-weight: bold;
     text-align: center;
@@ -205,8 +206,9 @@ html {
     float: left;
     gap: 10px;
     margin-left: 50px;
+    width: 100px;
 }
 
 .header p {
-    color: gray;
+    color: #E5E7EB;
 }
