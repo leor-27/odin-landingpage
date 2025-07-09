@@ -108,7 +108,6 @@ html {
   float: left;
   gap: 10px;
   margin-left: 50px;
-  justify-content: space-between;
 }
 
 .footer .subtext {
@@ -211,4 +210,15 @@ html {
 
 .header p {
     color: #E5E7EB;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
