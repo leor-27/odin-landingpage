@@ -152,9 +152,9 @@ html {
 }
 
 .signup-button {
-    font-size: 10px;
+    font-size: 16px;
     margin: 4px 2px;
-    padding: 16px 32px;
+    padding: 8px 16px;
     width: 100px;
     height: 40px;
     font-weight: bold;
