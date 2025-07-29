@@ -40,14 +40,14 @@ html {
     padding-left: 100px;
 }
 
-.main-title strong, .sub-title strong, .header-content strong, .signup h4, .signup-button, .signup {
+.main-title strong, .sub-title strong, .header-content strong, .signup h4, .signup-button, .signup, .signup-button-2 {
     color: #F9FAF8;
 }
 
 .main-title strong, .sub-title strong {
     font-size: 48px;
     font-weight: bold;
-    margin-left: 75px;
+    margin-left: 80px;
     margin-right: 20px;
     margin-top: 90px;
 }
@@ -65,7 +65,7 @@ html {
     /* .subtext */
 }
 
-.signup, .signup-button {
+.signup, .signup-button, .signup-button-2 {
     background-color: #3882F6;
 }
 
@@ -146,17 +146,17 @@ html {
     font-size: 32px;
 }
 
-.white-background .signup-button {
+.white-background .signup-button, .signup-button-2 {
     border-color: white;
     border-radius: 10px;
     float: right;
 }
 
-.header .signup-button {
+.header .signup-button, .signup-button-2 {
     border-radius: 10px;
 }
 
-.signup-button {
+.signup-button, .signup-button-2 {
     font-size: 16px;
     margin: 4px 2px;
     padding: 8px 16px;
@@ -165,9 +165,8 @@ html {
     font-weight: bold;
     text-align: center;
     margin-bottom: 40px;
-    padding-bottom: 40px;
     margin-right: 50px;
-    margin-left: 75px;
+    margin-left: 80px;
 }
 
 .signup h4 {
@@ -245,5 +244,9 @@ html {
     font-size: 18px;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 75px;
+    margin-left: 80px;
+}
+
+.signup-button-2 {
+    margin-bottom: 40px;
 }
