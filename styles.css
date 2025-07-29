@@ -165,6 +165,7 @@ html {
     font-weight: bold;
     text-align: center;
     margin-bottom: 40px;
+    padding-bottom: 40px;
     margin-right: 50px;
     margin-left: 80px;
 }
@@ -245,8 +246,4 @@ html {
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 80px;
-}
-
-.signup-button-2 {
-    margin-bottom: 40px;
 }
