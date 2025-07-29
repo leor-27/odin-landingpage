@@ -40,16 +40,16 @@ html {
     padding-left: 100px;
 }
 
-.main-title strong, .header-content strong, .signup h4, .signup-button, .signup {
+.main-title strong, .sub-title strong, .header-content strong, .signup h4, .signup-button, .signup {
     color: #F9FAF8;
 }
 
-.main-title strong {
+.main-title strong, .sub-title strong {
     font-size: 48px;
-    font-weight: 900;
-    margin-left: 50px;
+    font-weight: bold;
+    margin-left: 75px;
     margin-right: 20px;
-    margin-top: 70px;
+    margin-top: 90px;
 }
 
 .header-content strong, #quote-section h4 {
@@ -167,7 +167,7 @@ html {
     margin-bottom: 40px;
     padding-bottom: 40px;
     margin-right: 50px;
-    margin-left: 50px;
+    margin-left: 75px;
 }
 
 .signup h4 {
@@ -245,5 +245,5 @@ html {
     font-size: 18px;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 50px;
+    margin-left: 75px;
 }
