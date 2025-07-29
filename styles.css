@@ -87,8 +87,8 @@ html {
     font-style: italic;
     line-height: 1.5;
     margin-bottom: 75px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 75px;
+    margin-left: 75px;
     text-align: left;
 }
 
@@ -162,13 +162,14 @@ html {
     height: 40px;
     font-weight: bold;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    margin-right: 50px;
     margin-left: 50px;
 }
 
 .signup h4 {
     font-size: 24px;
-    margin-left: 50px;
+    margin-left: 75px;
 
 }
 
@@ -202,7 +203,7 @@ html {
 
 #subtext-2 {
     text-align: left;
-    padding-left: 50px;
+    padding-left: 75px;
 }
 
 .subtext-3 {
@@ -228,7 +229,9 @@ html {
 
 .container {
     display: flex;
+    justify-content: space-around;
     flex-direction: column;
+    flex-wrap: wrap;
     gap: 10px;
 }
 
