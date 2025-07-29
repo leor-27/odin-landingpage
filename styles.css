@@ -47,9 +47,9 @@ html {
 .main-title strong {
     font-size: 48px;
     font-weight: 900;
-    margin-left: 20px;
+    margin-left: 50px;
     margin-right: 20px;
-    margin-top: 40px;
+    margin-top: 70px;
 }
 
 .header-content strong, #quote-section h4 {
@@ -70,7 +70,6 @@ html {
 
 .white-background h3, #quote-section p {
     font-size: 36px;
-    text-align: left;
     padding-top: 35px;
     padding-bottom: 50px;
     padding-right: 50px;
@@ -80,6 +79,7 @@ html {
 .white-background h3 {
     font-weight: 900;
     color: #1F2937;
+    text-align: center;
 }
 
 #quote-section p {
@@ -89,6 +89,7 @@ html {
     margin-bottom: 75px;
     margin-right: 50px;
     margin-left: 50px;
+    text-align: left;
 }
 
 .header-link p {
@@ -161,7 +162,8 @@ html {
     height: 40px;
     font-weight: bold;
     text-align: center;
-    padding-left: 50px;
+    margin-bottom: 20px;
+    margin-left: 50px;
 }
 
 .signup h4 {
@@ -185,9 +187,10 @@ html {
 .box p {
     color: white;
     font-size: 16px;
+    text-align: center;
 }
 
-.main-title p {
+/* .main-title p {
     margin-left: 20px;
     margin-right: 50px;
     color: gray;
@@ -195,10 +198,11 @@ html {
     flex-wrap: wrap;
     justify-content: center;
     display: flex;
-}
+} */
 
 #subtext-2 {
     text-align: left;
+    padding-left: 50px;
 }
 
 .subtext-3 {
@@ -226,4 +230,12 @@ html {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.header-subtext {
+    color: gray;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
 }
