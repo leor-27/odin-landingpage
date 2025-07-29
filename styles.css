@@ -36,8 +36,8 @@ html {
     background-color: #E5E7EB;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-right: 50px;
-    padding-left: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
 }
 
 .main-title strong, .header-content strong, .signup h4, .signup-button, .signup {
@@ -98,10 +98,11 @@ html {
 }
 
 .square {
-  height: 200px;
-  width: 200px;
+  height: 175px;
+  width: 175px;
   border: 1px solid hsl(217, 91%, 59%);
   border-radius: 10px;
+  border-width: 5px;
   flex-wrap: wrap;
   justify-content: center;
   display: flex;
@@ -135,6 +136,7 @@ html {
     text-align: right;
     margin-right: 50px;
     font-weight: 700;
+    padding-right: 100px;
 }
 
 .white-background h4 {
@@ -159,10 +161,13 @@ html {
     height: 40px;
     font-weight: bold;
     text-align: center;
+    padding-left: 50px;
 }
 
 .signup h4 {
     font-size: 24px;
+    margin-left: 50px;
+
 }
 
 .box {
@@ -205,6 +210,7 @@ html {
     margin-left: 50px;
     width: 100px;
     margin-right: 50px;
+    padding: auto;
 }
 
 .header p {
