@@ -59,9 +59,9 @@ html {
 .header-link p {
     color: gray;
     font-size: 18px;
-    /* flex-wrap: wrap;
-    justify-content: center;
-    display: flex; */
+    flex-wrap: wrap;
+    justify-content: right;
+    display: flex; 
     margin-left: 100px;
     position: absolute;
     top: 0;
