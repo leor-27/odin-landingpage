@@ -62,6 +62,8 @@ html {
     flex-wrap: wrap;
     justify-content: center;
     display: flex;
+    position: absolute;
+    top: 0;
     /* .subtext */
 }
 
@@ -246,4 +248,9 @@ html {
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 80px;
+}
+
+.header-content strong {
+    position: absolute;
+    top: 0;
 }
